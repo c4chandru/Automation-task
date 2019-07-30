@@ -11,8 +11,6 @@ class fooPage {
             backToHome: '//button'
 
         }
-
-
     }
 
     validateFooPage(){
