@@ -1,3 +1,5 @@
 /node_modules
-/errorShot
+/errorShots
 /package-lock.json
+/.idea
+.idea
