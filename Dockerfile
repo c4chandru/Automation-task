@@ -1,4 +1,6 @@
-FROM docker.phonepe.com:5000/pp-ops-trusty:0.1
+FROM ubuntu
+
+MAINTAINER chandrasekar sankar
 
 #FROM node:8.2
 ### JAVA_HOME
